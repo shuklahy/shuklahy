@@ -1,6 +1,6 @@
 ### Hi!  Hitendra Here 👋
 
-- 🧑‍💼 I am currently working as software engineer on developer tools to make life easier for developers.
+- 🧑‍💼 I am currently working as software engineer on developer workflows to make life easier for developers.
 - 💬 I like to solve problems and make world a little better each day. 
      In my free time I like to learn about 
   - Software, 
