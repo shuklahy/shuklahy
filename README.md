@@ -9,6 +9,9 @@
   - Spacecrafts, 
   - Polity and anything that is interesting!
 
+<img alt="stats" align="center" src="https://github-readme-stats.vercel.app/api?username=shuklahy&show_icons=true&theme=dark&rank_icon=github"/>|<img alt="languages" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shuklahy&layout=compact&langs_count=8&border_color=fff"/>
+|---|---|
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
